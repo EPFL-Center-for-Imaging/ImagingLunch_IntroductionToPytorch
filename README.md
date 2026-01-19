@@ -25,3 +25,4 @@ This workshop offers a code-along experience on EPFL’s RCP cluster and is perf
 
 Memento events:
 - [March 25](https://memento.epfl.ch/event/imaging-lunch-introduction-to-pytorch-for-image-an/)
+- [January 26](https://memento.epfl.ch/event/introduction-to-pytorch-for-image-analysis-2/)
